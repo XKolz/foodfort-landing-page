@@ -1,0 +1,162 @@
+{
+  "main": {
+    "name":"FoodFort Project",
+    "description":"FoodFort is a React-based food website that gives users options to order from, Foodfort is your trusted companion for exploring a world of flavours without leaving your home or office, whether you're wanting comfort food, looking for a healthy option, or trying out new flavours.",
+    "image":"profilepic.jpg",
+    "bio":"I'm Samuel, a software developement engineer specializing in creating dynamic web applications. With expertise in both front-end and back-end development, I bring a comprehensive approach to building efficient solutions. On the front-end, I have a strong command of HTML, CSS, and JavaScript, and skilled in popular libraries and frameworks like React, Angular and Vue.Js. I enjoy crafting user interfaces that provide an exceptional user experience. On the back-end, I'm proficient in server-side languages such as Node.js and Python, and I have experience working with databases like MySQL and MongoDB. I'm also well-versed in RESTful APIs and know how to integrate third-party services effectively.",
+    "bio1":"We're here to make every mealtime a memorable experience by committing to quality, convenience, and customer satisfaction. So, why delay? Join the Foodfort family right now.",
+    "contactmessage":"Biko! You fit send me message here, Thank you.",
+    "email": "",
+    "phone": "",
+    "github":"https://github.com/XKolz/FoodFort",
+    "project":"https://foodfort.onrender.com/",
+    "address":{
+      "street":"React JS, Typescript, Tailwind CSS, HTML5.",
+      "city":"TMDB API",
+      "state":"useState, useEffect, React-router, Axios",
+      "zip": "Languages: HTML5, CSS, Javascript. Platforms: Firebase, Render.   Frameworks: ReactJS, Tailwind CSS. Hardware: Laptop."
+    },
+    "website": "1http://www.timbakerdev.com",
+    "resumedownload":"1http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://facebook.com",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/etherealkhay",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/samuel-igbekele-441864171/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://instagram.com/etherealkhay?igshid=OGQ5ZDc2ODk2ZA==",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/XKolz",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Masters in Beer tasting",
+        "graduated":"April 2017",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2013",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2018 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2017 - February 2018",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"VueJs",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Signup",
+        "category":"Screenshot1",
+        "image":"01.jpg",
+        "url":"1https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Login",
+        "category":"Screenshot2",
+        "image":"02.jpg",
+        "url":"2http://www.timbakerdev.com"
+      },
+      {
+        "title":"Home Page",
+        "category":"Screenshot3",
+        "image":"03.jpg",
+        "url":"3http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Mobile View",
+        "category":"Screenshot4",
+        "image":"04.jpg",
+        "url":"4http://www.timbakerdev.com"
+      },
+      {
+        "title":"Meal Menu",
+        "category":"Screenshot5",
+        "image":"05.jpg",
+        "url":"5http://www.smirkspace.com"
+      },
+      {
+        "title":"Add to Cart",
+        "category":"Screenshot6",
+        "image":"06.jpg",
+        "url":"6https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Order Delivery",
+        "category":"Screenshot1",
+        "image":"07.jpg",
+        "url":"1https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Figma UI Design",
+        "category":"Screenshot2",
+        "image":"08.jpg",
+        "url":"2http://www.timbakerdev.com"
+      }
+    ]
+  }
+}
