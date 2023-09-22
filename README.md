@@ -1,26 +1,27 @@
-# cinecruise-landing-page :page_with_curl:
+# FoodFort-landing-page:
 
-### [LIVE DEMO](https://cinecruise-landingpage.netlify.app/)
+### [LIVE DEMO](https://foodfort-landingpage.onrender.com)
 
-![img](https://github.com/XKolz/cinecruise-landing-page/blob/master/public/images/img.jpg?raw=true)
+![FFSS](<FFSS/Screen Shot 2023-09-21 at 10.48.57 AM.png>)
 
 
 # Description
-This project forks from [https://github.com/tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template), I made some modifications and adjustments, thanks to the [author](https://github.com/tbakerx).
+I made some modifications and adjustments, thanks to the [author](https://github.com/tbakerx).
 
-![img](https://github.com/XKolz/cinecruise-landing-page/blob/master/public/images/img3.jpg?raw=true)
+![FFSS](<FFSS/Screen Shot 2023-09-21 at 10.49.01 AM.png>)
+![FFSS](<FFSS/Screen Shot 2023-09-21 at 10.49.26 AM.png>)
 
 # Run Project
 ### 1. Clone the project
 
 ### 2. Run the project
 ```shell
-yarn i
-yarn start
+npm i
+npm start
 ```
 
 ### 3. Build
 ```shell
-yarn run build
+npm run build
 ```
 
